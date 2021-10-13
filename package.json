@@ -1,0 +1,26 @@
+{
+  "name": "destiny.gg-chat",
+  "version": "0.0.1",
+  "description": "Node.js client library for Destiny.gg chat",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TotallyMehis/destiny.gg-chat-js.git"
+  },
+  "keywords": [
+    "destiny",
+    "gg",
+    "destinygg",
+    "destiny.gg"
+  ],
+  "author": "Mehis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TotallyMehis/destiny.gg-chat-js/issues"
+  },
+  "homepage": "https://github.com/TotallyMehis/destiny.gg-chat-js#readme",
+  "dependencies": {
+    "ws": "^8.2.3"
+  }
+}
